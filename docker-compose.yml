@@ -1,0 +1,16 @@
+version: '3'
+services:
+  client:
+    image: gyunghwan/agent_server:client
+    ports:
+      - "3000:3000"
+
+  user:
+    image: gyunghwan/agent_server:user
+    ports:
+      - "3001:3001"
+
+  server:
+    image: gyunghwan/agent_server:server
+    ports:
+      - "4000:4000"
