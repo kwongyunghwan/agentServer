@@ -174,7 +174,7 @@ docker-compose up -d
 
 ---
 
-## 🔌 API 엔드포인트
+## API 엔드포인트
 
 ### 인증
 
