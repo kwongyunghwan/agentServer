@@ -1,4 +1,4 @@
-# 💬 실시간 상담 시스템 (Agent Server)
+# 실시간 상담 시스템 (Agent Server)
 
 Socket.IO와 MongoDB를 활용한 실시간 1:1 상담 웹 애플리케이션
 
@@ -14,7 +14,8 @@ Socket.IO와 MongoDB를 활용한 실시간 1:1 상담 웹 애플리케이션
 <img width="1523" height="763" alt="image" src="https://github.com/user-attachments/assets/24a08cf5-7eae-43da-8b88-aa9058870079" />
 
 ## 이력페이지
-<img width="1529" height="732" alt="image" src="https://github.com/user-attachments/assets/41332a92-211f-4890-b3bd-82f107e0b9fa" />
+<img width="1510" height="696" alt="image" src="https://github.com/user-attachments/assets/dad54a82-2a86-440f-93a9-618db6f35c8d" />
+
 
 ## 마이페이지
  <img width="1513" height="807" alt="image" src="https://github.com/user-attachments/assets/bc9368e9-cca3-44ac-98ba-41ced166c271" />
